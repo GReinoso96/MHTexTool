@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MHTexTool": {
+      "commandName": "Project",
+      "commandLineArgs": "-r em01_tex.bin.unpacked_Files.txt"
+    }
+  }
+}
